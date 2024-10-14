@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @typRad
+- ### 👋 Hi, I’m @typRad
 - 👀 I’m interested in Html, Css, JavaScript, C#, Java, Pyton. 
 - 🌱 I'm currently learning javascript and a bit of C#
 - 💞️ I’m looking to collaborate on easy JavaScript projects. 
